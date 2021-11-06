@@ -1,7 +1,7 @@
 <?php
 class DB
 {
-    const DB_NAME = 'laptop1';
+    const DB_NAME = 'laptop';
     const DB_HOST = 'localhost';
     const DB_USERNAME = 'root';
     const DB_PASSWORD = '';
