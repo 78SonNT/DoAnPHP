@@ -165,7 +165,7 @@ if (isset($_POST['update_cart'])) {
                                 <ul class="products ">
                                     <li class="product ">
                                         <a href="single-product.php ">
-                                            <img width="325" height="325" alt="T_4_front " class="attachment-shop_catalog wp-post-image " src="img/product-2.jpg ">
+                                            <img width="325" height="325" alt="T_4_front " class="attachment-shop_catalog wp-post-image " src="pr1.jpg ">
                                             <h3>Ship Your Idea</h3>
                                             <span class="price "><span class="amount">£20.00</span></span>
                                         </a>
@@ -175,7 +175,7 @@ if (isset($_POST['update_cart'])) {
 
                                     <li class="product ">
                                         <a href="single-product.php ">
-                                            <img width="325" height="325" alt="T_4_front " class="attachment-shop_catalog wp-post-image " src="img/product-4.jpg ">
+                                            <img width="325" height="325" alt="T_4_front " class="attachment-shop_catalog wp-post-image " src="pr3.jpg ">
                                             <h3>Ship Your Idea</h3>
                                             <span class="price "><span class="amount">£20.00</span></span>
                                         </a>
