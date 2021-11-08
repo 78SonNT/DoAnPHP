@@ -115,7 +115,9 @@ foreach ($cart as $item) {
                         <li><a href="shop.php">Tất cả sản phẩm</a></li>
                         <li><a href="category.php">Danh Mục Sản Phẩm</a></li>
                         <li><a href="brand.php">Hãng Sản Xuất</a></li>
-                        <li><a href="#">Linh Kiện</a></li>
+                        <li><a href="http://localhost/DoAnPHP/BaiTap/">Bài Tập</a></li>
+                        <li><a href="http://localhost/DoAnPHP/ThongTin/">Thông tin cá nhân</a></li>
+                        
                         <!-- <li>
                             <form style="margin-top: 10px" action="search.php" method="get">
                                 <input type="text" name="search_key" id="" required>
