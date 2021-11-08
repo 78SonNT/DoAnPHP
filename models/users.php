@@ -20,7 +20,7 @@ class Users extends DB implements IModel
     function insert($payload)
     {
         try {
-
+            error_reporting(0);
             $username = $payload['username'];
             $address = $payload['address'];
             $phone = $payload['phone'];
